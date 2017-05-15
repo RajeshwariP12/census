@@ -1,0 +1,20 @@
+{
+  "name": "census",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeshwariP12/census.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeshwariP12/census/issues"
+  },
+  "homepage": "https://github.com/RajeshwariP12/census#readme"
+}
